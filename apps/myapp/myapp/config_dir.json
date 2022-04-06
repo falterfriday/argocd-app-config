@@ -1,0 +1,1 @@
+{"appName":"myapp","userGivenName":"myapp","destNamespace":"default","destServer":"https://kubernetes.default.svc","srcPath":".","srcRepoURL":"https://github.com/falterfriday/argocd-app-config.git","srcTargetRevision":"","labels":null,"exclude":"","include":""}
