@@ -1,0 +1,1 @@
+{"appName":"demo-app","userGivenName":"demo-app","destNamespace":"default","destServer":"https://kubernetes.default.svc","srcPath":"apps/demo-app/overlays/demo-project","srcRepoURL":"https://github.com/falterfriday/argocd-app-config.git","srcTargetRevision":"","labels":null}
